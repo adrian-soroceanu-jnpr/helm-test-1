@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   nginx-chart-1:
   - apiVersion: v2
-    appVersion: latest
-    created: "2024-11-07T09:38:58.753597323Z"
+    appVersion: 1.16.0
+    created: "2024-11-07T11:15:29.907204927Z"
     description: A Helm chart for Kubernetes
-    digest: 2105a80e450a0883766525aaecb623992e97c09ba45a38a063ceee54339da67c
+    digest: c5d01048531180e528ead5392483644982bae2941fe9cf53a80aea5827190c43
     name: nginx-chart-1
     type: application
     urls:
     - https://adrian-soroceanu-jnpr.github.io/helm-test-1/nginx-chart-1-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-07T09:38:58.750145593Z"
+generated: "2024-11-07T11:15:29.900296296Z"
